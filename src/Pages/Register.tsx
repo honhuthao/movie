@@ -54,7 +54,7 @@ export const Register = () => {
         <div className="mt-20">
           <input
             placeholder="Mật Khẩu"
-            type="text"
+            type="password"
             className="outline-none block w-full p-15 border text-white border-white rounded-lg bg-[#333] focus:ring-blue-600"
             {...register("matKhau")}
           />
