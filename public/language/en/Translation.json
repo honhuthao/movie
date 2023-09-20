@@ -1,0 +1,12 @@
+{
+    "en": {
+      "greeting": "Hello",
+      "farewell": "Goodbye",
+      "login": "Log in"
+    },
+    "fr": {
+      "greeting": "Bonjour",
+      "farewell": "Au revoir",
+      "login": "Se connecter"
+    }
+  }

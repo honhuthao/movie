@@ -1,0 +1,10 @@
+{
+  "folders": [
+	{
+		"path": "../.."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "leetcode__day1-day100"
+  }
+}

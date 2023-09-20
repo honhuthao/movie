@@ -1,0 +1,37 @@
+
+:root {
+    --header-heigth:80px;
+    --max-width:1400px;
+    --primary-color : #111;
+    --secondary-color: #13323;
+    --orange-color : rgba(250,82,56)
+}
+.slick-next::before,.slick-prev::before {
+    color: black !important;
+    font-size: 40px !important;
+    background-color: transparent !important;
+    opacity: 0.3 !important;
+}
+.slick-prev::before {
+    margin-left: -40px;
+}
+.slick-next::before {
+    margin-right: -40px !important ;
+}
+.showFilm {
+    transition: 0.4s all;
+    width: 100%;
+    display: inline-flex;
+    align-items: center;
+    /* flex-direction: column; */
+    justify-content: center
+}
+.showFilm:hover {
+    /* color: rgb(250, 82, 56); */
+    transform: scale(1.2);
+
+}
+/* .ant-card .ant-card-bordered .ant-card-hoverable .css-dev-only-do-not-override-17a39f8 {
+    background-color: #111 !important;
+} */
+
